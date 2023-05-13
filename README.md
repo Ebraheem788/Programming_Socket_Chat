@@ -1,2 +1,2 @@
-# Programming_Socket_ChatProgramming a chat through socket using Python
+# Programming_Socket_Chat Programming a chat through socket using Python
 #
